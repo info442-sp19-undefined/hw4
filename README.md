@@ -1,4 +1,7 @@
 # Homework 4: Architecture Specification
+We include ERD table at the end of the specification.
+
+See [Appendix](##Appendix)
 ## IntroOutroHandler
 A handler which manages start screen and end screen user interaction and interface behavior for the Ice-breaker application. Creates and updates Room’s user interface for start and end behavior. Receives and manages all user input, connecting this input to other components such as `QuestionManager`.
 ### Properties
