@@ -146,6 +146,7 @@ resetGame() | none | none | The room will be removed from the firebase.
 #### Outputs
 - `UserManager` - Returns an object with all game information related to a particular user.
 
+--------------
 
 ## Appendix
 <img src="img/ERD.png" alt="ERD" title="ERD" width="500px" height="500px" />
